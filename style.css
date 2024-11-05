@@ -81,3 +81,26 @@ border: none;
 .icone-teclado{
 width: 19px;
 }
+.icone-imput{
+width: 20px;
+min-width: 20px;
+fill: #9aa0a6;
+}
+.icone-colorido{
+width: 24px;
+}
+.botao{
+padding: 10px 30px;
+font-family: Google sans, Roboto, Helvetica, Arial , sans-serif; 
+border-radius: 4px;
+font-size: 14px;
+background-color: #f8f9fa;
+border: none;
+cursor: pointer;
+}
+
+.caixa-botoes{
+display: flex;
+gap: 8px;
+margin-bottom: 10vh;
+}
